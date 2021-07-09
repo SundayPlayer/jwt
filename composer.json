@@ -22,7 +22,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-openssl": "*",
-        "ext-sodium": "*",
+        "ext-libsodium": "*",
         "lcobucci/clock": "^2.0"
     },
     "require-dev": {
